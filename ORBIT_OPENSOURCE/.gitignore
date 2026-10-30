@@ -1,0 +1,15 @@
+# local environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# build output
+build/
+dist/
+*.spec
+
+# scratch / local verification artifacts
+.tmp/
+screenshots/
